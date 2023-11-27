@@ -11,8 +11,7 @@ Features:
 Installation:
 
 1. Clone the repository:
-   git clone https://github.com/benjister/TaskMater.git
-
+   git clone https://github.com/benjister/TaskMaster
 2. Change into the project directory:
    cd TaskMater
 
